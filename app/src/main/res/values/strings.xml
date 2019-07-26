@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="label_name">Name:</string>
+    <string name="hint_name">Please enter your name</string>
+    <string name="label_save">Save</string>
 
 </resources>
